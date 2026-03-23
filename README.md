@@ -13,3 +13,6 @@ yoy wont have the spawngearpresets bit so make sure it looks exactly like that. 
  "spawnGearPresetFiles": ["custom/BasicMedicLoadout.json","custom/whateverloadout.json"],
 
  needs the , inbetween or it wont work, good luck enjoy console only unless you know what your doing
+
+https://www.youtube.com/watch?v=7Tg2wMQGueo
+link to youtube clip above
